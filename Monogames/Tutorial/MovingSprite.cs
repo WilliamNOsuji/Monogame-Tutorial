@@ -12,9 +12,9 @@ namespace Tutorial
             this.speed = speed;
         }
 
-        public override void Update()
+        public override void Update(GameTime gameTime)
         {
-            base.Update();
+            base.Update(gameTime);
             position.X += speed;
         }
     }

@@ -4,9 +4,11 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/MongKe/Desktop/Monogames/Tutorial/Content/__Idle.gif</File>
+    <File>C:/Users/willi/Desktop/Monogame-Tutorial/Monogames/Tutorial/Content/__Idle.gif</File>
+    <File>C:/Users/willi/Desktop/Monogame-Tutorial/Monogames/Tutorial/Content/enemy_idle.gif</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
   </DestFiles>
 </SourceFileCollection>

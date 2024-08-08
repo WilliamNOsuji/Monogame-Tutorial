@@ -1,26 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\MongKe\\Desktop\\Monogames\\Tutorial\\",
+  "WorkspaceRootPath": "C:\\Users\\willi\\Desktop\\Monogame-Tutorial\\Monogames\\Tutorial\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4CADB88B-7A8B-45E1-B88D-CD7017BC91F7}|Tutorial.csproj|c:\\users\\mongke\\desktop\\monogames\\tutorial\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CADB88B-7A8B-45E1-B88D-CD7017BC91F7}|Tutorial.csproj|solutionrelative:game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4CADB88B-7A8B-45E1-B88D-CD7017BC91F7}|Tutorial.csproj|c:\\users\\willi\\desktop\\monogame-tutorial\\monogames\\tutorial\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CADB88B-7A8B-45E1-B88D-CD7017BC91F7}|Tutorial.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CADB88B-7A8B-45E1-B88D-CD7017BC91F7}|Tutorial.csproj|c:\\users\\mongke\\desktop\\monogames\\tutorial\\sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4CADB88B-7A8B-45E1-B88D-CD7017BC91F7}|Tutorial.csproj|c:\\users\\willi\\desktop\\monogame-tutorial\\monogames\\tutorial\\sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CADB88B-7A8B-45E1-B88D-CD7017BC91F7}|Tutorial.csproj|solutionrelative:sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CADB88B-7A8B-45E1-B88D-CD7017BC91F7}|Tutorial.csproj|c:\\users\\mongke\\desktop\\monogames\\tutorial\\scaledsprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CADB88B-7A8B-45E1-B88D-CD7017BC91F7}|Tutorial.csproj|solutionrelative:scaledsprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CADB88B-7A8B-45E1-B88D-CD7017BC91F7}|Tutorial.csproj|c:\\users\\mongke\\desktop\\monogames\\tutorial\\coloredsprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CADB88B-7A8B-45E1-B88D-CD7017BC91F7}|Tutorial.csproj|solutionrelative:coloredsprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CADB88B-7A8B-45E1-B88D-CD7017BC91F7}|Tutorial.csproj|c:\\users\\mongke\\desktop\\monogames\\tutorial\\movingsprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CADB88B-7A8B-45E1-B88D-CD7017BC91F7}|Tutorial.csproj|solutionrelative:movingsprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4CADB88B-7A8B-45E1-B88D-CD7017BC91F7}|Tutorial.csproj|c:\\users\\willi\\desktop\\monogame-tutorial\\monogames\\tutorial\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CADB88B-7A8B-45E1-B88D-CD7017BC91F7}|Tutorial.csproj|solutionrelative:game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MovingSprite.cs",
-              "DocumentMoniker": "C:\\Users\\MongKe\\Desktop\\Monogames\\Tutorial\\MovingSprite.cs",
-              "RelativeDocumentMoniker": "MovingSprite.cs",
-              "ToolTip": "C:\\Users\\MongKe\\Desktop\\Monogames\\Tutorial\\MovingSprite.cs",
-              "RelativeToolTip": "MovingSprite.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Desktop\\Monogame-Tutorial\\Monogames\\Tutorial\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\willi\\Desktop\\Monogame-Tutorial\\Monogames\\Tutorial\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T03:55:24.277Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ColoredSprite.cs",
-              "DocumentMoniker": "C:\\Users\\MongKe\\Desktop\\Monogames\\Tutorial\\ColoredSprite.cs",
-              "RelativeDocumentMoniker": "ColoredSprite.cs",
-              "ToolTip": "C:\\Users\\MongKe\\Desktop\\Monogames\\Tutorial\\ColoredSprite.cs",
-              "RelativeToolTip": "ColoredSprite.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABNAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T03:50:30.236Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ScaledSprite.cs",
-              "DocumentMoniker": "C:\\Users\\MongKe\\Desktop\\Monogames\\Tutorial\\ScaledSprite.cs",
-              "RelativeDocumentMoniker": "ScaledSprite.cs",
-              "ToolTip": "C:\\Users\\MongKe\\Desktop\\Monogames\\Tutorial\\ScaledSprite.cs",
-              "RelativeToolTip": "ScaledSprite.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T02:26:19.096Z",
+              "WhenOpened": "2024-08-08T19:48:20.298Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Sprite.cs",
-              "DocumentMoniker": "C:\\Users\\MongKe\\Desktop\\Monogames\\Tutorial\\Sprite.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Desktop\\Monogame-Tutorial\\Monogames\\Tutorial\\Sprite.cs",
               "RelativeDocumentMoniker": "Sprite.cs",
-              "ToolTip": "C:\\Users\\MongKe\\Desktop\\Monogames\\Tutorial\\Sprite.cs",
+              "ToolTip": "C:\\Users\\willi\\Desktop\\Monogame-Tutorial\\Monogames\\Tutorial\\Sprite.cs",
               "RelativeToolTip": "Sprite.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAmwBMAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T23:18:47.087Z",
+              "WhenOpened": "2024-08-08T19:42:21.544Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Game1.cs",
-              "DocumentMoniker": "C:\\Users\\MongKe\\Desktop\\Monogames\\Tutorial\\Game1.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Desktop\\Monogame-Tutorial\\Monogames\\Tutorial\\Game1.cs",
               "RelativeDocumentMoniker": "Game1.cs",
-              "ToolTip": "C:\\Users\\MongKe\\Desktop\\Monogames\\Tutorial\\Game1.cs",
+              "ToolTip": "C:\\Users\\willi\\Desktop\\Monogame-Tutorial\\Monogames\\Tutorial\\Game1.cs",
               "RelativeToolTip": "Game1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T23:00:46.253Z",
+              "WhenOpened": "2024-08-08T19:10:21.816Z",
               "EditorCaption": ""
             }
           ]

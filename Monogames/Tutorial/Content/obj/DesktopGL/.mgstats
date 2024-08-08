@@ -1,2 +1,3 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"C:/Users/MongKe/Desktop/Monogames/Tutorial/Content/__Idle.gif","C:/Users/MongKe/Desktop/Monogames/Tutorial/Content/bin/DesktopGL/__Idle.xnb","TextureProcessor","Texture2DContent",12257,38485,0.0950274
+"C:/Users/willi/Desktop/Monogame-Tutorial/Monogames/Tutorial/Content/__Idle.gif","C:/Users/willi/Desktop/Monogame-Tutorial/Monogames/Tutorial/Content/bin/DesktopGL/__Idle.xnb","TextureProcessor","Texture2DContent",12257,38485,0.1260023
+"C:/Users/willi/Desktop/Monogame-Tutorial/Monogames/Tutorial/Content/enemy_idle.gif","C:/Users/willi/Desktop/Monogame-Tutorial/Monogames/Tutorial/Content/bin/DesktopGL/enemy_idle.xnb","TextureProcessor","Texture2DContent",2158,3157,0.0029557
