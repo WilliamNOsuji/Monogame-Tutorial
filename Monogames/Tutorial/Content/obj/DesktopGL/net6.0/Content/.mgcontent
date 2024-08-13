@@ -4,10 +4,14 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/willi/Desktop/Monogame-Tutorial/Monogames/Tutorial/Content/__Idle.gif</File>
-    <File>C:/Users/willi/Desktop/Monogame-Tutorial/Monogames/Tutorial/Content/enemy_idle.gif</File>
+    <File>C:/Users/MongKe/Desktop/Monogame Tutorial/Monogames/Tutorial/Content/__Idle.gif</File>
+    <File>C:/Users/MongKe/Desktop/Monogame Tutorial/Monogames/Tutorial/Content/enemy_idle_sheet.png</File>
+    <File>C:/Users/MongKe/Desktop/Monogame Tutorial/Monogames/Tutorial/Content/enemy_idle.gif</File>
+    <File>C:/Users/MongKe/Desktop/Monogame Tutorial/Monogames/Tutorial/Content/Fonts/tutorialFont.spritefont</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
   </DestFiles>

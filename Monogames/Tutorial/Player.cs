@@ -1,12 +1,7 @@
 ﻿using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
-using System;
 using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Tutorial
 {
@@ -25,15 +20,13 @@ namespace Tutorial
             var keyboardState = Keyboard.GetState();
 
             float changeX = 0;
-            if (keyboardState.IsKeyDown(Keys.A))
-            {
-                changeX -= 5;
-                Console.WriteLine("Key A is pressed");
-            }
             if (keyboardState.IsKeyDown(Keys.D))
             {
                 changeX += 5;
-                Console.WriteLine("Key D is pressed");
+            }
+            if (keyboardState.IsKeyDown(Keys.A))
+            {
+                changeX -= 5;
             }
 
             position.X += changeX;
@@ -41,7 +34,7 @@ namespace Tutorial
             // Collision X
             foreach (var sprite in collisionGroup)
             {
-                if (sprite.Rect.Intersects(Rect))
+                if (sprite != this && sprite.Rect.Intersects(Rect))
                 {
                     position.X -= changeX;
                 }
@@ -62,7 +55,7 @@ namespace Tutorial
             // Collision Y
             foreach (var sprite in collisionGroup)
             {
-                if (sprite.Rect.Intersects(Rect))
+                if (sprite != this && sprite.Rect.Intersects(Rect))
                 {
                     position.Y -= changeY;
                 }

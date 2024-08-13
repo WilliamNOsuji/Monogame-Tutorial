@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>C:/Users/willi/Desktop/Monogame-Tutorial/Monogames/Tutorial/Content/enemy_idle.gif</SourceFile>
-  <SourceTime>2017-05-04T20:41:49-04:00</SourceTime>
-  <DestFile>C:/Users/willi/Desktop/Monogame-Tutorial/Monogames/Tutorial/Content/bin/DesktopGL/Content/enemy_idle.xnb</DestFile>
-  <DestTime>2024-08-08T16:27:02.7615457-04:00</DestTime>
+  <SourceFile>C:/Users/MongKe/Desktop/Monogame Tutorial/Monogames/Tutorial/Content/enemy_idle.gif</SourceFile>
+  <SourceTime>2024-08-12T14:14:49.4068744-04:00</SourceTime>
+  <DestFile>C:/Users/MongKe/Desktop/Monogame Tutorial/Monogames/Tutorial/Content/bin/DesktopGL/Content/enemy_idle.xnb</DestFile>
+  <DestTime>2024-08-13T04:45:07.1779668-04:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

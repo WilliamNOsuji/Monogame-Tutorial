@@ -5,7 +5,7 @@ namespace Tutorial
 {
     internal class Sprite
     {
-        private static readonly float SCALE = 1f;
+        private static readonly float SCALE = 2.5f;
 
         public Texture2D texture;
         public Vector2 position;

@@ -25,6 +25,18 @@
 /processorParam:TextureFormat=Color
 /build:__Idle.gif
 
+#begin enemy_idle_sheet.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:enemy_idle_sheet.png
+
 #begin enemy_idle.gif
 /importer:TextureImporter
 /processor:TextureProcessor
@@ -36,4 +48,11 @@
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
 /build:enemy_idle.gif
+
+#begin Fonts/tutorialFont.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:PremultiplyAlpha=True
+/processorParam:TextureFormat=Compressed
+/build:Fonts/tutorialFont.spritefont
 
