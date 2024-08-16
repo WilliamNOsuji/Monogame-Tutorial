@@ -25,6 +25,11 @@
 /processorParam:TextureFormat=Color
 /build:__Idle.gif
 
+#begin Audio/balballball.webm
+/importer:
+/processor:
+/build:Audio/balballball.webm
+
 #begin enemy_idle_sheet.png
 /importer:TextureImporter
 /processor:TextureProcessor

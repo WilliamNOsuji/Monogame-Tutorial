@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MongKe\\Desktop\\Monogame Tutorial\\Monogames Advanced\\Tutorial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CADB88B-7A8B-45E1-B88D-CD7017BC91F7}|Tutorial.csproj|c:\\users\\mongke\\desktop\\monogame tutorial\\monogames advanced\\tutorial\\animationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CADB88B-7A8B-45E1-B88D-CD7017BC91F7}|Tutorial.csproj|solutionrelative:animationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CADB88B-7A8B-45E1-B88D-CD7017BC91F7}|Tutorial.csproj|c:\\users\\mongke\\desktop\\monogame tutorial\\monogames advanced\\tutorial\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CADB88B-7A8B-45E1-B88D-CD7017BC91F7}|Tutorial.csproj|solutionrelative:game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CADB88B-7A8B-45E1-B88D-CD7017BC91F7}|Tutorial.csproj|c:\\users\\mongke\\desktop\\monogame tutorial\\monogames advanced\\tutorial\\exitscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CADB88B-7A8B-45E1-B88D-CD7017BC91F7}|Tutorial.csproj|solutionrelative:exitscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CADB88B-7A8B-45E1-B88D-CD7017BC91F7}|Tutorial.csproj|c:\\users\\mongke\\desktop\\monogame tutorial\\monogames advanced\\tutorial\\gamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CADB88B-7A8B-45E1-B88D-CD7017BC91F7}|Tutorial.csproj|solutionrelative:gamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CADB88B-7A8B-45E1-B88D-CD7017BC91F7}|Tutorial.csproj|c:\\users\\mongke\\desktop\\monogame tutorial\\monogames advanced\\tutorial\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CADB88B-7A8B-45E1-B88D-CD7017BC91F7}|Tutorial.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CADB88B-7A8B-45E1-B88D-CD7017BC91F7}|Tutorial.csproj|c:\\users\\mongke\\desktop\\monogame tutorial\\monogames advanced\\tutorial\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CADB88B-7A8B-45E1-B88D-CD7017BC91F7}|Tutorial.csproj|solutionrelative:scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CADB88B-7A8B-45E1-B88D-CD7017BC91F7}|Tutorial.csproj|c:\\users\\mongke\\desktop\\monogame tutorial\\monogames advanced\\tutorial\\scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CADB88B-7A8B-45E1-B88D-CD7017BC91F7}|Tutorial.csproj|solutionrelative:scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CADB88B-7A8B-45E1-B88D-CD7017BC91F7}|Tutorial.csproj|c:\\users\\mongke\\desktop\\monogame tutorial\\monogames advanced\\tutorial\\sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CADB88B-7A8B-45E1-B88D-CD7017BC91F7}|Tutorial.csproj|solutionrelative:sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CADB88B-7A8B-45E1-B88D-CD7017BC91F7}|Tutorial.csproj|c:\\users\\mongke\\desktop\\monogame tutorial\\monogames advanced\\tutorial\\ysortcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CADB88B-7A8B-45E1-B88D-CD7017BC91F7}|Tutorial.csproj|solutionrelative:ysortcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MongKe\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\build\\MonoGame.Content.Builder.Task.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CADB88B-7A8B-45E1-B88D-CD7017BC91F7}|Tutorial.csproj|c:\\users\\mongke\\desktop\\monogame tutorial\\monogames advanced\\tutorial\\content\\enemy_idle_sheet.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{4CADB88B-7A8B-45E1-B88D-CD7017BC91F7}|Tutorial.csproj|solutionrelative:content\\enemy_idle_sheet.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CADB88B-7A8B-45E1-B88D-CD7017BC91F7}|Tutorial.csproj|c:\\users\\mongke\\desktop\\monogame tutorial\\monogames advanced\\tutorial\\content\\fonts\\tutorialfont.spritefont||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4CADB88B-7A8B-45E1-B88D-CD7017BC91F7}|Tutorial.csproj|solutionrelative:content\\fonts\\tutorialfont.spritefont||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\MongKe\\Desktop\\Monogame Tutorial\\Monogames Advanced\\Tutorial\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\MongKe\\Desktop\\Monogame Tutorial\\Monogames Advanced\\Tutorial\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T20:51:46.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameScene.cs",
+              "DocumentMoniker": "C:\\Users\\MongKe\\Desktop\\Monogame Tutorial\\Monogames Advanced\\Tutorial\\GameScene.cs",
+              "RelativeDocumentMoniker": "GameScene.cs",
+              "ToolTip": "C:\\Users\\MongKe\\Desktop\\Monogame Tutorial\\Monogames Advanced\\Tutorial\\GameScene.cs",
+              "RelativeToolTip": "GameScene.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAAAJkBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T21:46:11.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExitScene.cs",
+              "DocumentMoniker": "C:\\Users\\MongKe\\Desktop\\Monogame Tutorial\\Monogames Advanced\\Tutorial\\ExitScene.cs",
+              "RelativeDocumentMoniker": "ExitScene.cs",
+              "ToolTip": "C:\\Users\\MongKe\\Desktop\\Monogame Tutorial\\Monogames Advanced\\Tutorial\\ExitScene.cs",
+              "RelativeToolTip": "ExitScene.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T21:45:52.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\MongKe\\Desktop\\Monogame Tutorial\\Monogames Advanced\\Tutorial\\Game1.cs",
+              "RelativeDocumentMoniker": "Game1.cs",
+              "ToolTip": "C:\\Users\\MongKe\\Desktop\\Monogame Tutorial\\Monogames Advanced\\Tutorial\\Game1.cs",
+              "RelativeToolTip": "Game1.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T08:49:26.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnimationManager.cs",
+              "DocumentMoniker": "C:\\Users\\MongKe\\Desktop\\Monogame Tutorial\\Monogames Advanced\\Tutorial\\AnimationManager.cs",
+              "RelativeDocumentMoniker": "AnimationManager.cs",
+              "ToolTip": "C:\\Users\\MongKe\\Desktop\\Monogame Tutorial\\Monogames Advanced\\Tutorial\\AnimationManager.cs",
+              "RelativeToolTip": "AnimationManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T12:30:16.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Scene.cs",
+              "DocumentMoniker": "C:\\Users\\MongKe\\Desktop\\Monogame Tutorial\\Monogames Advanced\\Tutorial\\Scene.cs",
+              "RelativeDocumentMoniker": "Scene.cs",
+              "ToolTip": "C:\\Users\\MongKe\\Desktop\\Monogame Tutorial\\Monogames Advanced\\Tutorial\\Scene.cs",
+              "RelativeToolTip": "Scene.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T21:46:23.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SceneManager.cs",
+              "DocumentMoniker": "C:\\Users\\MongKe\\Desktop\\Monogame Tutorial\\Monogames Advanced\\Tutorial\\SceneManager.cs",
+              "RelativeDocumentMoniker": "SceneManager.cs",
+              "ToolTip": "C:\\Users\\MongKe\\Desktop\\Monogame Tutorial\\Monogames Advanced\\Tutorial\\SceneManager.cs",
+              "RelativeToolTip": "SceneManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T21:46:43.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sprite.cs",
+              "DocumentMoniker": "C:\\Users\\MongKe\\Desktop\\Monogame Tutorial\\Monogames Advanced\\Tutorial\\Sprite.cs",
+              "RelativeDocumentMoniker": "Sprite.cs",
+              "ToolTip": "C:\\Users\\MongKe\\Desktop\\Monogame Tutorial\\Monogames Advanced\\Tutorial\\Sprite.cs",
+              "RelativeToolTip": "Sprite.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwDQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T21:47:26.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "YSortCamera.cs",
+              "DocumentMoniker": "C:\\Users\\MongKe\\Desktop\\Monogame Tutorial\\Monogames Advanced\\Tutorial\\YSortCamera.cs",
+              "RelativeDocumentMoniker": "YSortCamera.cs",
+              "ToolTip": "C:\\Users\\MongKe\\Desktop\\Monogame Tutorial\\Monogames Advanced\\Tutorial\\YSortCamera.cs",
+              "RelativeToolTip": "YSortCamera.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwCQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T21:47:00.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MonoGame.Content.Builder.Task.targets",
+              "DocumentMoniker": "C:\\Users\\MongKe\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\build\\MonoGame.Content.Builder.Task.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\build\\MonoGame.Content.Builder.Task.targets",
+              "ToolTip": "C:\\Users\\MongKe\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\build\\MonoGame.Content.Builder.Task.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\build\\MonoGame.Content.Builder.Task.targets",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAI0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-08-15T21:43:57.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "tutorialFont.spritefont",
+              "DocumentMoniker": "C:\\Users\\MongKe\\Desktop\\Monogame Tutorial\\Monogames Advanced\\Tutorial\\Content\\Fonts\\tutorialFont.spritefont",
+              "RelativeDocumentMoniker": "Content\\Fonts\\tutorialFont.spritefont",
+              "ToolTip": "C:\\Users\\MongKe\\Desktop\\Monogame Tutorial\\Monogames Advanced\\Tutorial\\Content\\Fonts\\tutorialFont.spritefont",
+              "RelativeToolTip": "Content\\Fonts\\tutorialFont.spritefont",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-13T19:56:31.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "enemy_idle_sheet.png",
+              "DocumentMoniker": "C:\\Users\\MongKe\\Desktop\\Monogame Tutorial\\Monogames Advanced\\Tutorial\\Content\\enemy_idle_sheet.png",
+              "RelativeDocumentMoniker": "Content\\enemy_idle_sheet.png",
+              "ToolTip": "C:\\Users\\MongKe\\Desktop\\Monogame Tutorial\\Monogames Advanced\\Tutorial\\Content\\enemy_idle_sheet.png",
+              "RelativeToolTip": "Content\\enemy_idle_sheet.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-08-13T19:17:56.755Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

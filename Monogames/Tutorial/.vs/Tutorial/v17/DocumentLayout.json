@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\MongKe\\Desktop\\Monogame Tutorial\\Monogames\\Tutorial\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4CADB88B-7A8B-45E1-B88D-CD7017BC91F7}|Tutorial.csproj|c:\\users\\mongke\\desktop\\monogame tutorial\\monogames\\tutorial\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CADB88B-7A8B-45E1-B88D-CD7017BC91F7}|Tutorial.csproj|solutionrelative:game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4CADB88B-7A8B-45E1-B88D-CD7017BC91F7}|Tutorial.csproj|c:\\users\\mongke\\desktop\\monogame tutorial\\monogames\\tutorial\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CADB88B-7A8B-45E1-B88D-CD7017BC91F7}|Tutorial.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CADB88B-7A8B-45E1-B88D-CD7017BC91F7}|Tutorial.csproj|c:\\users\\mongke\\desktop\\monogame tutorial\\monogames\\tutorial\\content\\fonts\\tutorialfont.spritefont||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{4CADB88B-7A8B-45E1-B88D-CD7017BC91F7}|Tutorial.csproj|solutionrelative:content\\fonts\\tutorialfont.spritefont||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{4CADB88B-7A8B-45E1-B88D-CD7017BC91F7}|Tutorial.csproj|c:\\users\\mongke\\desktop\\monogame tutorial\\monogames\\tutorial\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CADB88B-7A8B-45E1-B88D-CD7017BC91F7}|Tutorial.csproj|solutionrelative:game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4CADB88B-7A8B-45E1-B88D-CD7017BC91F7}|Tutorial.csproj|c:\\users\\mongke\\desktop\\monogame tutorial\\monogames\\tutorial\\animationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,6 +17,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{4CADB88B-7A8B-45E1-B88D-CD7017BC91F7}|Tutorial.csproj|c:\\users\\mongke\\desktop\\monogame tutorial\\monogames\\tutorial\\content\\enemy_idle_sheet.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
       "RelativeMoniker": "D:0:0:{4CADB88B-7A8B-45E1-B88D-CD7017BC91F7}|Tutorial.csproj|solutionrelative:content\\enemy_idle_sheet.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CADB88B-7A8B-45E1-B88D-CD7017BC91F7}|Tutorial.csproj|c:\\users\\mongke\\desktop\\monogame tutorial\\monogames\\tutorial\\content\\fonts\\tutorialfont.spritefont||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4CADB88B-7A8B-45E1-B88D-CD7017BC91F7}|Tutorial.csproj|solutionrelative:content\\fonts\\tutorialfont.spritefont||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\MongKe\\Desktop\\Monogame Tutorial\\Monogames\\Tutorial\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\MongKe\\Desktop\\Monogame Tutorial\\Monogames\\Tutorial\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T20:51:46.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "tutorialFont.spritefont",
               "DocumentMoniker": "C:\\Users\\MongKe\\Desktop\\Monogame Tutorial\\Monogames\\Tutorial\\Content\\Fonts\\tutorialFont.spritefont",
               "RelativeDocumentMoniker": "Content\\Fonts\\tutorialFont.spritefont",
@@ -50,7 +67,19 @@
               "ToolTip": "C:\\Users\\MongKe\\Desktop\\Monogame Tutorial\\Monogames\\Tutorial\\Content\\enemy_idle_sheet.png",
               "RelativeToolTip": "Content\\enemy_idle_sheet.png",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-08-13T19:17:56.755Z",
+              "WhenOpened": "2024-08-13T19:17:56.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\MongKe\\Desktop\\Monogame Tutorial\\Monogames\\Tutorial\\Game1.cs",
+              "RelativeDocumentMoniker": "Game1.cs",
+              "ToolTip": "C:\\Users\\MongKe\\Desktop\\Monogame Tutorial\\Monogames\\Tutorial\\Game1.cs",
+              "RelativeToolTip": "Game1.cs",
+              "ViewState": "AQIAALoAAAAAAAAAAAAAAMIAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T08:49:26.28Z",
               "EditorCaption": ""
             },
             {
@@ -61,22 +90,9 @@
               "RelativeDocumentMoniker": "AnimationManager.cs",
               "ToolTip": "C:\\Users\\MongKe\\Desktop\\Monogame Tutorial\\Monogames\\Tutorial\\AnimationManager.cs",
               "RelativeToolTip": "AnimationManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAcwBQAAAAPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-13T12:30:16.366Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Game1.cs",
-              "DocumentMoniker": "C:\\Users\\MongKe\\Desktop\\Monogame Tutorial\\Monogames\\Tutorial\\Game1.cs",
-              "RelativeDocumentMoniker": "Game1.cs",
-              "ToolTip": "C:\\Users\\MongKe\\Desktop\\Monogame Tutorial\\Monogames\\Tutorial\\Game1.cs",
-              "RelativeToolTip": "Game1.cs",
-              "ViewState": "AQIAAKgAAAAAAAAAAAAcwMIAAABqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T08:49:26.28Z",
               "EditorCaption": ""
             }
           ]
